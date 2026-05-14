@@ -146,23 +146,6 @@ Install all required libraries using:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-# Gemini API Key Setup
-
-Create a file named:
-
-```bash
-API_key.env
-```
-
-Add your Gemini API key inside the file:
-
-```env
-GOOGLE_API_KEY=your_api_key_here
-```
-
 ---
 
 # How to Run the Application
