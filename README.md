@@ -178,16 +178,6 @@ Open the link in your browser.
 
 ---
 
-# Future Improvements
-
-- Multi-disease chest X-ray classification
-- Cloud deployment
-- Real-time hospital integration
-- Explainable AI visualization
-- Enhanced report generation
-
----
-
 # Author
 
 ## Eslam Eid Abdullah
